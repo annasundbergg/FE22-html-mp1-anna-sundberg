@@ -1,0 +1,148 @@
+/* landing page */
+h1{
+    color: #c3c1ab;
+    font-size: 50px;
+    font-family: Courier, monospace;
+    background-color: #e7e5d9;
+    margin:auto;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+q{
+    color: #5e5949;
+    font-size: 15px;
+    padding: 20px;
+}
+
+img{
+    height: 350px;
+}
+
+.one
+{
+    background-color: #F6ECE4;    
+    float: left;  
+    align-items: top;
+    margin-right: 30px;
+    align-items: center
+}
+.two
+{
+    background-color:#F6ECE4;
+    float: left;
+    align-items: center;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.three
+{
+    background-color: #F6ECE4;
+    float: left;
+    align-items: center
+}
+
+.list-container{
+    text-align: center;
+    list-style: none;
+  }
+  
+  .list{
+      padding: 10px
+}
+
+section{
+    font-size: 30px;
+    color: white;
+    margin-top:20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    width: 30%;
+}
+
+/* all */
+
+h3{
+    color: #c3c1ab;
+    font-size: 30px;
+    font-family: Courier, monospace;
+    background-color: #e7e5d9;
+    margin:auto;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
+body{
+    font-family:Times Roman;
+    color: #515753;
+}
+
+p{
+    color: #5e5949;
+    font-size: 15px;
+}
+
+.header{
+    padding-top: 100px;
+    width: 1400px;
+    padding-bottom: 20px;
+}
+
+a{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Courier, monospace;
+    color: #C3C1AB
+}
+
+a:hover{
+    color: #AE887B
+}
+
+footer{
+    font-family: Courier, monospace;
+    font-size: 20px;
+    background-color: #e7e5d9;
+    width: 1400px;
+    position: fixed;
+    bottom: 0;
+}
+
+/* contact page */
+
+textarea{
+    margin-top: 30px;
+    display: block;
+    max-width: 600px;
+    max-height: 700px;
+}
+
+#button{
+    color: #515753;
+    margin-top:20px;
+    font-family: Courier, monospace;
+}
+
+label, input{
+    color: #5e5949;
+    font-size: 15px;
+    display: block;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/* inspiration page */
+
+.link-inspo{
+    padding:10px;
+    color: #c3c1ab;
+}
+
